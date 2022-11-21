@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 
 ![Junsung's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsung5779&show_icons=true&theme=radical)
+
+# Algorithm🤔
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juns5779)](https://solved.ac/juns5779/)
 
 # 💪Skills
