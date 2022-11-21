@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunsung5779&count_bg=%23568BFF&title_bg=%239C9B9B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Junsung's GitHub stats](https://github-readme-stats.onedark.app/api?username=junsung5779&show_icons=true&theme=onedark)
+![Junsung's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsung5779&show_icons=true&theme=cobalt)
 
 # 🤔Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juns5779)](https://solved.ac/juns5779/)
