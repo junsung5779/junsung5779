@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # 🤔Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juns5779)](https://solved.ac/juns5779/)
 
-# 💪Skills
+# 💪Skills!
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
